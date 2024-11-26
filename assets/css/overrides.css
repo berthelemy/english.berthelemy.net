@@ -1,0 +1,17 @@
+p {
+    margin-bottom: 1rem;
+}
+
+a.pic {
+    overflow:hidden;
+}
+
+#main > .panel.intro .pic img {
+    width: 145%;
+    margin-left: -5rem;
+    object-position: right 30%;
+}
+
+header p {
+    color: #c78a8a;
+}
