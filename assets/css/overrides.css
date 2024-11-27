@@ -1,4 +1,4 @@
-p {
+p, ul {
     margin-bottom: 1rem;
 }
 
@@ -8,7 +8,7 @@ a.pic {
 
 #main > .panel.intro .pic img {
     width: 145%;
-    margin-left: -5rem;
+    margin-left: -8rem;
     object-position: right 30%;
 }
 
