@@ -1,3 +1,7 @@
+#nav a {
+    opacity: 0.55;
+}
+
 p, ul {
     margin-bottom: 1rem;
 }
@@ -13,5 +17,14 @@ a.pic {
 }
 
 header p {
-    color: #c78a8a;
+    color: #854b4b;
+}
+
+#footer {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+#main > .panel.intro header p.cta {
+    margin-top: 2rem;
+    margin-bottom: 0;
 }
